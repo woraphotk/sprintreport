@@ -8,5 +8,5 @@ app.listen(port, () => {
     console.log(`App running at http://${hostname}`);
 });
 app.get('/sprintreport2', function (req, res) {
-  res.send('/sprintreport/sprint1/sprintreport2.html')
+  res.send('/sprint1/sprintreport2.html')
 })
