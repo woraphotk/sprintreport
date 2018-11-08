@@ -10,56 +10,85 @@ h1 {color: black; style: bold; alignment: center; size=10px
 </style>
 <body>
 
-<h1><p>Falling-glitter Coding Team</p>
+<h1><p>Team Name: Falling-glitter Coding Team</p>
 <p>Project Status Report</p>
 </h1>
 
 <p><b>Team: Falling glitter</b></p>
-<li>Amornwattana, Pam: pam.amornwattana@yale.edu</li>
-<li>Intaranukulkij, Hiranthip: hiranthip.intaranukulkij@yale.edu</li>
-<li>Kingkawkantong, Woraphot: woraphot.kingkawkantong@yale.edu</li>
-<li>Yu, Tianyang: tianyang.yu@yale.edu</li>
+<li>magnificent-hummingbird</li>
+<li>sleepy-reindeer</li>
+<li>aggressive-wren</li>
+<li>fantastic-fish</li>
 <p><b>Team's activities</b></p>
 <ol>
-   <li>We accepted the invitation to create the repository for our term project.</li>
-   <li>We created a file with estimated product backlog for our team, using the grading criteria that we have to accomplish as user stories. After that, we assigned story size for each of the stories.
-<li><img src="chart1.jpg" width="500" height="300"></img></li>
-<li><img src="chart2.jpg" width="300" height="75"></img></li>
-<li>For more info: visit <a href="https://docs.google.com/spreadsheets/d/144k1OH15rssH6lV2ElWmlYyWUhhZ_CmcrKw4tpASJ1A/edit?usp=sharing"> this link</a></li>
-</li>
+   <li>We worked on fixing the HTML for the main pages including Homepage, About page, New event pages and Event page to make the site up and running. </li>
+   <li><img src="Sprint1.jpg" width="500" height="300"></img></li>
 
 </ol>
 <b>Project backlog</b>
 <ol>
-    <li>The meeting we had this week was to manage the project logistics, thus there was no completed user backlogs.</li>
+    <li>Please visit <a href="https://docs.google.com/spreadsheets/d/144k1OH15rssH6lV2ElWmlYyWUhhZ_CmcrKw4tpASJ1A/edit?usp=sharing"> this link</a></li>
 </ol>
+
 <b>Burndown chart</b>
 <ol>
-    <li>After summing all the user stories, we have in total 355 uncompleted user stories
-</li>
-<li><img src="chart3.jpg" width="500" height="300"></img></li>
+    <li>During the previous sprint, we have completed 21 stories from the total of 355 stories. Hence, we have uncompleted user stories of 334.</li>
+    <li><img src="Summary- Story.jpg" width="500" height="300"></img></li>
+    <li><img src="Burndown-2.jpg" width="500" height="300"></img></li>
+
 </ol>
 <b>Completed stories in this sprint (if any)</b>
+<ol>
+     <li>Homepage</li>
 <ul>
-    <li>N/A</li>
+   <li>is reachable </li>
+   <li>is has a title  </li>
+   <li>is has a header  </li>
+   <li>is has a footer  </li>
+   <li>is has a link to the about page in footer  </li>
+   <li>is has a link to the home page in footer  </li>
+   <li>is has your team logo  </li>
 </ul>
+    <li>About page </li>
+<ul>
+     <li>should be reachable </li>
+     <li>is has your names </li>
+     <li>shows your headshots </li>
+</ul>
+    <li>New Event Page </li>
+<ul>
+     <li>is reachable </li>
+     <li>has a form for event submission </li>
+</ul>
+</ol>
+
 <b>Narrative of what accomplished since last report including any notable challenges or roadblocks encountered
 </b>
 <ul>
-    <li>Creating product backlog and estimate story size</li>
-    <li>Joined repository on github</li>
-    <li>Get everyone to understand the product’s vision e.g. What’s Eventbrite?, Who is Eventbrite’s customer? What’s UX we need to deliver </li>
-</ul>
-<b>Current backlog in order</b>
-<ul>
-    <li>N/A</li>
-</ul>
-<b>Narrative of what expected work before next report</b>
-<ul>
-    <li>Agreement on what metric to be used to prioritize the user’s stories</li>
-    <li>Discuss on the story prioritization for the next sprint</li>
-    <li>Determine the team’s capacity </li>
+    <li>Set up the pages including Homepage, About Page, New Event page to make it up and reachable </li>
+    <li>Create the objects for each pages including title, header, footer, link, logo, text, and form for each page</li>
 </ul>
 
+<b>Current backlog in order</b>
+<ol>
+    <li>Working on the Javascript on the Home page </li>
+    <ul>
+        <li>uses bootstrap</li>
+        <li>has a link to the new event page</li>
+        <li>has a list of events</li>
+        <li>each event links to a "detail" page</li>
+        <li>each event shows its time</li>
+    </ul>
+     <li>Working on the Javascript on the About page </li>
+     <li>Working on the Javascript on the Event page 1 and 2  </li>
+     <li>Working on the Javascript on the New Event page  </li>
+     <li>Working on assets for each pages (Event page 1 and 2) 
+ </li>
+</ol>
+<b>Narrative of what expected work before next report</b>
+<ol>
+    <li>Working on the Javascript on the Home page</li>
+
+</ol>
 </body>
 </html>
